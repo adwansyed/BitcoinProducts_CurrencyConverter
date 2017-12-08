@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bitcoin Products</string>
+    <string name="name">Name:</string>
+    <string name="description">Description:</string>
+    <string name="price">Price ($):</string>
+    <string name="price_btc">Price (BTC):</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="delete">Delete</string>
+    <string name="name_hint">Name</string>
+</resources>
